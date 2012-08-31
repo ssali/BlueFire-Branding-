@@ -130,37 +130,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_0C381535521C4DF2939A9E4CC4B67A49"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_67EA328AEF064EFCBFB28C52F2C7E133"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_E66B53928F3AEA50BBBDD301CEA24A14"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_F0D1BC1CA156BF2AC6CA5C9F28F17373"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_0C1AF26A1E623C3678287C2A649BD552"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_91E21AF8E0BF901815C2ABD596CFE789"
+        "OwnerKey" = "8:_7534F32F1B53476FAA72264608D6113B"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -172,7 +142,37 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_7534F32F1B53476FAA72264608D6113B"
+        "OwnerKey" = "8:_91E21AF8E0BF901815C2ABD596CFE789"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_0C1AF26A1E623C3678287C2A649BD552"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_F0D1BC1CA156BF2AC6CA5C9F28F17373"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_E66B53928F3AEA50BBBDD301CEA24A14"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_67EA328AEF064EFCBFB28C52F2C7E133"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_0C381535521C4DF2939A9E4CC4B67A49"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -1868,7 +1868,7 @@
                             "ContextData" = "8:"
                             "Attributes" = "3:0"
                             "Setting" = "3:2"
-                            "Value" = "8:Welcome to MezeoFile! [ProductName] creates a folder to sync files from your [ProductName] account. "
+                            "Value" = "8:Welcome to [ProductName]! [ProductName] creates a folder to sync files from your [ProductName] account. "
                             "DefaultValue" = "8:#1203"
                             "UsePlugInResources" = "11:TRUE"
                             }
